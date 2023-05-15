@@ -42,3 +42,5 @@
 35. **cut -d**: delimiter character
 36. **uniq**: filters out adjacent matching lines in a file
 37. **uniq -c**: counts the number of times a line occurs in its input
+38. **code**: open VSCode
+39. **code [file]**: open file in VSCode
